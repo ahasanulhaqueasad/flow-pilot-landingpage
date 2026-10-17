@@ -2,6 +2,8 @@
 
 FlowPilot is a modern project management dashboard built with React and Vite. It helps users organize projects, manage tasks, track progress, and customize their workspace through a clean and responsive interface.
 
+🌐 Live Website: https://flow-pilot-landingpage.vercel.app/
+
 ## ✨ Features
 
 - 📊 **Dashboard Overview** — View project and task information.
